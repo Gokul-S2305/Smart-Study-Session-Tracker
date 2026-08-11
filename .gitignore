@@ -1,0 +1,5 @@
+study_sessions.txt
+*.class
+.idea/
+.vscode/
+out/
